@@ -1,4 +1,4 @@
-# How to clean a pool explained with psuedocode!
+# How to clean a pool explained with pseudocode!
 <br>
 
 ### This is a step by step guide for maintaining a pool with a sand filter.
