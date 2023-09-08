@@ -20,7 +20,7 @@
 
 ### Emptying the skimmer should be your first step to a clean pool. This and your filter are the organs of your pool Keep them healthy!
 
-IF (Filter is on) {
+    IF (Filter is on) {
     Turn it off;
     ELSE {
     Continue to skimmer;
