@@ -7,16 +7,15 @@
 
 [x] Check and empty the skimmer
 [x] Skimming the pool
-[] Vacuuming the pool
-[] Checking the chemicals
-[] Backwashing (A feature of sand filters only)
+[x] Vacuuming the pool
+[x] Checking the chlorine levels
 
 <br>
 <br>
 
 ## Step 1
 
-### Emptying the skimmer should be your first step to a clean pool. This and your filter are the organs of your pool.Keep them healthy!
+### Emptying the skimmer should be your first step to a clean pool. This and your filter are the organs of your pool Keep them healthy!
 
 Turn off filter and Pull lid off skimmer
     IF (skimmer has debree) {
@@ -86,8 +85,30 @@ Turn off filter and Pull lid off skimmer
 
 ## Step 4
 
-### The balancing act we call CHEMICALS! In this example we are using the [Taylor Test Kit](https://www.amazon.com/Taylor-9056-Chlorine-Comparator-Replacement/dp/B004VU87JG/ref=asc_df_B004VU87JG/?tag=hyprod-20&linkCode=df0&hvadid=198092864586&hvpos=&hvnetw=g&hvrand=18221227625024329075&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014315&hvtargid=pla-348631668470&psc=1>)
+### The balancing act we call CHEMICALS! In this example we are using the [Taylor Test Kit](https://www.amazon.com/Taylor-9056-Chlorine-Comparator-Replacement/dp/B004VU87JG/ref=asc_df_B004VU87JG/?tag=hyprod-20&linkCode=df0&hvadid=198092864586&hvpos=&hvnetw=g&hvrand=18221227625024329075&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014315&hvtargid=pla-348631668470&psc=1>) to adjust our chlorine
 
     IF (Test kit is out of box and ready) {
-        Dip your test kit into water and add chemical to 
+        Continue;
+        ELSE {
+            Get your test kit out!;
+        }
+    }
+
+    WHILE (test tube is empty) {
+        Fill tube up with pool water from at least elbow deep;
+        ELSE {
+           Add 5 drops R-0001 and 5 drops R-0002 cover and shake tube;
+        }
+    }
+
+    IF (the coloration is too light){
+        Add more chlorine to the pool;
+
+        ELSE IF (The coloration is too dark) {
+            Pause swimming for the day and let the sun evaporate the chlorine;
+
+            ELSE {
+                Throw those trunks on and get swimming!
+            }
+        }
     }
