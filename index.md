@@ -4,8 +4,8 @@
 ### This is a step by step guide for maintaining a pool with a sand filter.
 
 ### Lets start with a list for the steps to cleaning the pool.
-[] Check and empty the skimmer
-[] Skimming the pool
+[x] Check and empty the skimmer
+[x] Skimming the pool
 [] Vacuuming the pool
 [] Checking the chemicals
 [] Backwashing (A feature of sand filters only)
@@ -24,6 +24,7 @@ Turn off filter and Pull lid off skimmer
     }}
 
 # Step 2
+
     IF (skimming net is not on pole) {
         Attach net to pole;
     ELSE {
@@ -36,3 +37,26 @@ Turn off filter and Pull lid off skimmer
                 Move on to the next step;
             }
         }
+
+# Step 3
+
+    IF (vacuum head is not on pole) {
+        Attach vacuum head to pole;
+        ELSE {
+            Continue with this step
+        }
+    }
+
+    IF (Vacuum and skimmer not attached to either end of tube) {
+        Attach skimmer to one end of tube and other end to top of vacuum;
+            Else {
+                Continue with step;
+            }
+        }
+    
+
+[x] During this time your pool filter should still be off
+
+    IF (pool filter is off and light debree in the bottom) {
+        Turn the filter on;
+    }
