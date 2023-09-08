@@ -86,7 +86,7 @@ Turn off filter and Pull lid off skimmer
 
 ## Step 4
 
-### The balancing act we call CHEMICALS! In this example we are using the <a href=https://www.amazon.com/Taylor-9056-Chlorine-Comparator-Replacement/dp/B004VU87JG/ref=asc_df_B004VU87JG/?tag=hyprod-20&linkCode=df0&hvadid=198092864586&hvpos=&hvnetw=g&hvrand=18221227625024329075&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014315&hvtargid=pla-348631668470&psc=1> Taylor test kit </a>
+### The balancing act we call CHEMICALS! In this example we are using the [Taylor Test Kit](https://www.amazon.com/Taylor-9056-Chlorine-Comparator-Replacement/dp/B004VU87JG/ref=asc_df_B004VU87JG/?tag=hyprod-20&linkCode=df0&hvadid=198092864586&hvpos=&hvnetw=g&hvrand=18221227625024329075&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014315&hvtargid=pla-348631668470&psc=1>)
 
     IF (Test kit is out of box and ready) {
         Dip your test kit into water and add chemical to 
