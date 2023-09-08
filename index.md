@@ -18,6 +18,8 @@
 ### Emptying the skimmer should be your first step to a clean pool. This and your filter are the organs of your pool Keep them healthy!
 
 Turn off filter and Pull lid off skimmer
+<br>
+
     IF (skimmer has debree) {
         Pull out and empty and clean off;
     
