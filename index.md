@@ -6,8 +6,11 @@
 ### Lets start with a list for the steps to cleaning the pool.
 
 [x] Check and empty the skimmer
+
 [x] Skimming the pool
+
 [x] Vacuuming the pool
+
 [x] Checking the chlorine levels
 
 <br>
